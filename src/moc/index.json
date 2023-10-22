@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Supere seus limites",
+    "subtitle": "Passe para o próximo nível",
+    "image": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?auto=format&fit=crop&q=80&w=1073&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "title": "Força para correr",
+    "subtitle": "Cross-training para correr melhor",
+    "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1228"
+  },
+
+  {
+    "id": 3,
+    "title": "Treinos adaptados a você",
+    "subtitle": "Treinos de força, HIIT, yoga e muito mais",
+    "image": "https://plus.unsplash.com/premium_photo-1674059549794-20e75cb6dc45?auto=format&fit=crop&q=80&w=1025&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "title": "Projeto força e forma",
+    "subtitle": "Você mais forte em apenas 6 semanas",
+    "image": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?auto=format&fit=crop&q=80&w=1160&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
