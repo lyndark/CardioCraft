@@ -1,4 +1,4 @@
-#PROJETO INTEGRADOR V - CARDIOCRAFT 🏋🏻‍♀️
+# PROJETO INTEGRADOR V - CARDIOCRAFT 🏋🏻‍♀️
 
 Bem-vindo ao repositório oficial do CardioCraft, um aplicativo de vida fitness dedicado a atender às crescentes necessidades de saúde. Nosso MVP (Produto Mínimo Viávei) são cuidadosamente projetados para fornecer treinamento personalizado, exercícios extensos, acompanhamento de progresso e integração perfeita de dispositivos, tudo projetado para fornecer aos usuários uma experiência abrangente e acessível.
 
