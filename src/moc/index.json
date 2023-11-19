@@ -3,12 +3,78 @@
     "id": 1,
     "title": "Supere seus limites",
     "subtitle": "Passe para o próximo nível",
+    "description": "Você já está em forma, mas quer seguir progredindo? Este programa de treino faz acontecer!",
+    "training": [
+      {
+        "title": "Treino 1",
+        "description": "Agachamento, Supino, Barra Fixa ou Pulldown, Desenvolvimento militar, Prancha."
+      },
+      {
+        "title": "Treino 2",
+        "description": "Levantamento Terra, Flexões, Pull-ups, Desenvolvimento com Halteres, Prancha Lateral."
+      },
+      {
+        "title": "Treino 3",
+        "description": "Agachamento Frontal, Prensa de Pernas, Extensão de Quadril, Elevação de Panturrilhas, Prancha. "
+      },
+      {
+        "title": "Treino 4",
+        "description": "Remada Curvada, Supino Inclinado, Rosca Direta, Tríceps Pulley, Prancha Lateral."
+      }
+    ],
+    "comments": [
+      {
+        "comment": "“Os exercícios escolhidos e a progressão cuidadosa ao longo das semanas têm desafiado meu corpo de maneira positiva, proporcionando não apenas resultados tangíveis, mas também uma sensação de realização a cada treino concluído.”",
+        "name": "Mai",
+        "age": 25,
+        "image": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "comment": "“Gostaria de expressar minha sincera gratidão pelo programa de treino que você desenvolveu para mim. Desde que comecei a seguir suas orientações, tenho experimentado uma melhoria significativa em minha força, resistência e bem-estar geral.”",
+        "name": "Renan",
+        "age": 30,
+        "image": "https://plus.unsplash.com/premium_photo-1667511127370-c9843772312f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
     "image": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?auto=format&fit=crop&q=80&w=1073&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2,
     "title": "Força para correr",
     "subtitle": "Cross-training para correr melhor",
+    "description": "Você já está em forma, mas quer seguir progredindo? Este programa de treino faz acontecer!",
+    "training": [
+      {
+        "title": "Treino 1",
+        "description": "Agachamento, Supino, Barra Fixa ou Pulldown, Desenvolvimento militar, Prancha."
+      },
+      {
+        "title": "Treino 2",
+        "description": "Levantamento Terra, Flexões, Pull-ups, Desenvolvimento com Halteres, Prancha Lateral."
+      },
+      {
+        "title": "Treino 3",
+        "description": "Agachamento Frontal, Prensa de Pernas, Extensão de Quadril, Elevação de Panturrilhas, Prancha. "
+      },
+      {
+        "title": "Treino 4",
+        "description": "Remada Curvada, Supino Inclinado, Rosca Direta, Tríceps Pulley, Prancha Lateral."
+      }
+    ],
+    "comments": [
+      {
+        "comment": "“Os exercícios escolhidos e a progressão cuidadosa ao longo das semanas têm desafiado meu corpo de maneira positiva, proporcionando não apenas resultados tangíveis, mas também uma sensação de realização a cada treino concluído.”",
+        "name": "Mai",
+        "age": 25,
+        "image": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "comment": "“Gostaria de expressar minha sincera gratidão pelo programa de treino que você desenvolveu para mim. Desde que comecei a seguir suas orientações, tenho experimentado uma melhoria significativa em minha força, resistência e bem-estar geral.”",
+        "name": "Renan",
+        "age": 30,
+        "image": "https://plus.unsplash.com/premium_photo-1667511127370-c9843772312f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
     "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1228"
   },
 
@@ -16,12 +82,78 @@
     "id": 3,
     "title": "Treinos adaptados a você",
     "subtitle": "Treinos de força, HIIT, yoga e muito mais",
+    "description": "Você já está em forma, mas quer seguir progredindo? Este programa de treino faz acontecer!",
+    "training": [
+      {
+        "title": "Treino 1",
+        "description": "Agachamento, Supino, Barra Fixa ou Pulldown, Desenvolvimento militar, Prancha."
+      },
+      {
+        "title": "Treino 2",
+        "description": "Levantamento Terra, Flexões, Pull-ups, Desenvolvimento com Halteres, Prancha Lateral."
+      },
+      {
+        "title": "Treino 3",
+        "description": "Agachamento Frontal, Prensa de Pernas, Extensão de Quadril, Elevação de Panturrilhas, Prancha. "
+      },
+      {
+        "title": "Treino 4",
+        "description": "Remada Curvada, Supino Inclinado, Rosca Direta, Tríceps Pulley, Prancha Lateral."
+      }
+    ],
+    "comments": [
+      {
+        "comment": "“Os exercícios escolhidos e a progressão cuidadosa ao longo das semanas têm desafiado meu corpo de maneira positiva, proporcionando não apenas resultados tangíveis, mas também uma sensação de realização a cada treino concluído.”",
+        "name": "Mai",
+        "age": 25,
+        "image": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "comment": "“Gostaria de expressar minha sincera gratidão pelo programa de treino que você desenvolveu para mim. Desde que comecei a seguir suas orientações, tenho experimentado uma melhoria significativa em minha força, resistência e bem-estar geral.”",
+        "name": "Renan",
+        "age": 30,
+        "image": "https://plus.unsplash.com/premium_photo-1667511127370-c9843772312f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
     "image": "https://plus.unsplash.com/premium_photo-1674059549794-20e75cb6dc45?auto=format&fit=crop&q=80&w=1025&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 4,
     "title": "Projeto força e forma",
     "subtitle": "Você mais forte em apenas 6 semanas",
+    "description": "Você já está em forma, mas quer seguir progredindo? Este programa de treino faz acontecer!",
+    "training": [
+      {
+        "title": "Treino 1",
+        "description": "Agachamento, Supino, Barra Fixa ou Pulldown, Desenvolvimento militar, Prancha."
+      },
+      {
+        "title": "Treino 2",
+        "description": "Levantamento Terra, Flexões, Pull-ups, Desenvolvimento com Halteres, Prancha Lateral."
+      },
+      {
+        "title": "Treino 3",
+        "description": "Agachamento Frontal, Prensa de Pernas, Extensão de Quadril, Elevação de Panturrilhas, Prancha. "
+      },
+      {
+        "title": "Treino 4",
+        "description": "Remada Curvada, Supino Inclinado, Rosca Direta, Tríceps Pulley, Prancha Lateral."
+      }
+    ],
+    "comments": [
+      {
+        "comment": "“Os exercícios escolhidos e a progressão cuidadosa ao longo das semanas têm desafiado meu corpo de maneira positiva, proporcionando não apenas resultados tangíveis, mas também uma sensação de realização a cada treino concluído.”",
+        "name": "Mai",
+        "age": 25,
+        "image": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "comment": "“Gostaria de expressar minha sincera gratidão pelo programa de treino que você desenvolveu para mim. Desde que comecei a seguir suas orientações, tenho experimentado uma melhoria significativa em minha força, resistência e bem-estar geral.”",
+        "name": "Renan",
+        "age": 30,
+        "image": "https://plus.unsplash.com/premium_photo-1667511127370-c9843772312f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
     "image": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?auto=format&fit=crop&q=80&w=1160&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]

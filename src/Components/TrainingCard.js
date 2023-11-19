@@ -1,9 +1,22 @@
-import React from "react";
-import { View, Text, Image, StyleSheet, ScrollView } from "react-native";
+import React, { useState } from "react";
+import { View, Text, Image, StyleSheet } from "react-native";
+import DescriptionTrainingCard from "./DescriptionTrainingCard";
 
 const TrainingCard = (props) => {
-  return (
-    <View style={styles.containerCard} key={props.id}>
+  const [modalVisible, setModalVisible] = useState(false);
+  return modalVisible ? (
+    <DescriptionTrainingCard
+      modalVisible={modalVisible}
+      setModalVisible={setModalVisible}
+      training={props}
+    />
+  ) : (
+    <View
+      onTouchStart={() => setModalVisible(true)}
+      onPress={() => setModalVisible(true)}
+      style={styles.containerCard}
+      key={props.id}
+    >
       <View style={styles.headerImage}>
         <Image source={{ uri: props.image }} style={styles.imageConfig} />
         <View style={styles.titleContainer}>

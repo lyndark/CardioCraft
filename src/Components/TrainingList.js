@@ -11,6 +11,10 @@ const TrainingList = (props) => {
           title={exercise.title}
           subtitle={exercise.subtitle}
           image={exercise.image}
+          description={exercise.description}
+          training={exercise.training}
+          comments={exercise.comments}
+          trainingDescription={exercise.trainingDescription}
         />
       );
     });
